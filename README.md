@@ -45,12 +45,12 @@ Commands used:
 npm run build
 npm run deploy
 
-**📄 Resume**
+##**📄 Resume**
 Resume can be viewed and downloaded directly from the website.
 Resume file location:
 public/portfolio/RESUME-SUMIT.pdf
 
-**👨‍💻 About Me
+##**👨‍💻 About Me
 
 Sumit Dubey**
 Business Analyst | Full-Stack Developer | Data-Driven Problem Solver
@@ -61,7 +61,7 @@ Interested in full-stack development and analytics
 
 Focused on building practical, real-world applications
 **
-🔗 Connect With Me**
+##🔗 Connect With Me**
 
 LinkedIn:
 https://www.linkedin.com/in/sumit-dubey-07s
@@ -69,6 +69,6 @@ https://www.linkedin.com/in/sumit-dubey-07s
 GitHub:
 https://github.com/sumitdubey07
 
-📌 Note
+##📌 Note
 
 This portfolio was created as part of my training task to demonstrate frontend development skills, UI design, and deployment using GitHub Pages.
