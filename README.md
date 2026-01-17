@@ -55,6 +55,7 @@ public/RESUME-SUMIT.pdf
 # About Me
 
 Sumit Dubey
+
 Business Analyst | Full-Stack Developer | Data-Driven Problem Solver
 
 🎓 B.Tech in Information Technology (Honors in Data Science)
