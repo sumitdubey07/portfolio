@@ -40,7 +40,6 @@ portfolio/
 This project is deployed using **GitHub Pages**.
 
 Commands used:
-
 ```bash
 npm run build
 npm run deploy
