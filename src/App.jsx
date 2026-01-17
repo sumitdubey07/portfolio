@@ -123,7 +123,7 @@ export default function App() {
             </button>
 
             <a
-              href="/RESUME-SUMIT.pdf"
+              href={`${process.env.PUBLIC_URL}/RESUME-SUMIT.pdf`}
               target="_blank"
               rel="noreferrer"
               className="hover:text-purple-400 transition"
@@ -173,7 +173,7 @@ export default function App() {
             </button>
 
             <a
-              href="/RESUME-SUMIT.pdf"
+              href={`${process.env.PUBLIC_URL}/RESUME-SUMIT.pdf`}
               download
               className="px-8 py-4 rounded-full border border-current/30 hover:bg-black/10 transition font-bold hover:scale-110 transition"
             >
