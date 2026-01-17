@@ -28,13 +28,21 @@ Deployment: GitHub Pages
 #📁 Project Structure
 
 portfolio/
+
 │── public/
+
 │   └── RESUME-SUMIT.pdf
+
 │── src/
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   └── index.css
+
 │── package.json
+
 │── README.md
 
 #🚀 Deployment
